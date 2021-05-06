@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmikeyy
-- 👀 I’m interested in Java Script,HTML,CSS and PHP.
+- 👀 I’m interested in Java Script,HTML,CSS.
 - 🌱 I’m currently learning HTML,CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mihaellipotic6@gmail.com
